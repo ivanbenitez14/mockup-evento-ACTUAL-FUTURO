@@ -1,0 +1,163 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+html,body{
+  color:white;
+  font-family:'Helvetica Neue', 'Open Sans';  
+  height:100%;
+  width:100%;
+  margin: 0px;
+}
+
+/*
+Aquí viene lo bueno jóvenes 
+*/
+
+.topnav {
+	display: flex;
+	overflow: hidden;
+  background-color: lightgreen;
+}
+
+.topnav a {
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: lightgreen;
+}
+
+
+.carrera {
+  background: url("Imagen/run5.jpg") no-repeat fixed center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+.cuadritoDeMierda {
+  margin: 30px 0px 30px 0px;  
+  padding: 90px;
+  background: rgba(0,0,0,0.5);
+  display: inline-block;
+  font-size: 30px;
+  color: white;
+}
+.requisitos {
+  width: 100%; 
+  height: 200px; 
+  background: rgb(33, 33, 190);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+
+.carrera2 {
+  background: url("Imagen/run7.jpg") no-repeat fixed center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+  
+.cuadritoDeMierda2 {
+  margin: 30px 0px 30px 0px;  
+  padding: 90px;
+  background: rgba(0,0,0,0.5);
+  display: inline-block;
+  font-size: 30px;
+  color: white;
+}
+
+.requisitos2 {
+  width: 100%; 
+  height: 200px; 
+  background: rgb(100, 15, 100);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+
+.fas {
+  font-size: 50px;
+  color: white;
+}
+.far{
+  font-size: 50px;
+  color: white;
+}
+
+
+/*
+Ya estaba asi cuando llegue
+*/
+.containerIcon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcon2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcon3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcon4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcon5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcon6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.containerIcono {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcono2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcono3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcono4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcono5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerIcono6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
